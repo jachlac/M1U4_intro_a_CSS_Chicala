@@ -1,0 +1,34 @@
+h1{
+font-style: italic;
+font-family: Arial;
+color: darkgreen;
+    }
+
+h2{
+    color: rgb(18, 211, 137);
+    }
+
+p{
+    font-style: italic;
+    }
+
+.otros {
+    font-style: italic;
+    }
+
+#cajita{
+        background-color: rgb(162, 187, 105);
+       width: 50%;
+       font-family: Arial, Helvetica, sans-serif;
+       box-sizing: border-box; color: rgb(231, 12, 12);
+       padding: 5% 10%;
+       margin: auto;
+        }
+
+#cajita p{
+    color: rgb(56, 45, 2);
+        }
+
+#otrosimagen{
+    margin: 30px;
+        }
